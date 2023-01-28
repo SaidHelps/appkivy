@@ -10,7 +10,7 @@ import smtplib
 import time
 
 user = "shaggymufson21@gmail.com"
-passwd = "fubftcxszyskvktq"
+passwd = "bfjhcjwhfxivjyrh"
 server = "smtp.gmail.com"
 port = 587
 charset = 'Content-Type: text/plain; charset=utf-8'
